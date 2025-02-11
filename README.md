@@ -22,4 +22,5 @@ Your solution should include
 
 Problem Scenario  
 UML Diagram  
+![Lab Assignment 1 _ Strategy Pattern](https://github.com/user-attachments/assets/bc30d611-3167-4a6c-b261-5ae62c81cd53)
 Source codes solution  
