@@ -20,6 +20,6 @@ B.  AttackStrategy
 
 Your solution should include
 
-Problem Scenario
-UML Diagram
-Source codes solution
+Problem Scenario  
+UML Diagram  
+Source codes solution  
